@@ -1,5 +1,7 @@
 #include<stdio.h>
 #include<math.h>
+int sum(int x,int y){
+	return x+y;}
 int diff(int x,int y){
 	return x-y;}
 //added in testing branch	
