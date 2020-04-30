@@ -4,6 +4,9 @@ void greetings(char hello[]){
 void toupper(char stringg[]){
 	printf("to upper");
 }
+void toLower(char stringg[]){
+	printf("to lower");
+}
 int main()
 {
 	char n[]="hello";
