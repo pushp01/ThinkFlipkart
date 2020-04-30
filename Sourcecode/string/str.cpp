@@ -1,4 +1,6 @@
+
 #include<bits/stdc++.h>
+//just a bugfix
 void greetings(char hello[]){
 	printf("%s",hello);}
 void toupper(char stringg[]){

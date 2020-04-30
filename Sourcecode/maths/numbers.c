@@ -1,8 +1,14 @@
 #include<stdio.h>
 #include<math.h>
 int sum(int x,int y){
-	//changed in master
-	return (x+y);}
+<<<<<<< HEAD
+=======
+//in bugfix
+	int result=0;
+	result=x+y;
+
+	return result;}
+>>>>>>> bugfix
 int diff(int x,int y){
 	//changed in master
 	int result =0;
