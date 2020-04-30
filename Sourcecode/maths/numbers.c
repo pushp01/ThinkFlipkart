@@ -1,9 +1,13 @@
 #include<stdio.h>
 #include<math.h>
 int sum(int x,int y){
-	return x+y;}
+	//changed in master
+	return (x+y);}
 int diff(int x,int y){
-	return x-y;}
+	//changed in master
+	int result =0;
+	result =x-y;
+	return result}
 //added in testing branch	
 int mul(int x,int y){
 	return x*y;}
