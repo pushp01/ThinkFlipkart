@@ -7,6 +7,9 @@ void toupper(char stringg[]){
 void toLower(char stringg[]){
 	printf("to lower");
 }
+//added in master branch
+void toTitle(char stringg[]){
+	printf("to lower");
 int main()
 {
 	char n[]="hello";
